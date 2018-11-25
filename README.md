@@ -1,2 +1,1 @@
-# pipeline-model
 Pipeline Model
